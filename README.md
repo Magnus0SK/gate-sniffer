@@ -19,4 +19,4 @@ E.g. If your local IP address is 192.168.5.109, replace `192.168.1` with `192.16
 # Usage
 - Run [process_new_gate.bat](process_new_gate.bat)
 - View gates with [gatemap-viewer](https://github.com/Magnus0SK/gatemap-viewer) or at [https://magnus0sk.github.io/gatemap-viewer/?show_timer=1](https://magnus0sk.github.io/gatemap-viewer/?show_timer=1)<br>
-For local use, run `python -m http.server` on the command line and navigate to [127.0.0.1:8000/?show_timer=1](127.0.0.1:8000/?show_timer=1)
+For local use, run `python -m http.server` on the command line and navigate to `127.0.0.1:8000/?show_timer=1`.
